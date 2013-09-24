@@ -1,6 +1,6 @@
 {
   "name": "generator-library",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A JavaScript Library Generator for Yeoman",
   "keywords": [
     "yeoman-generator"
@@ -9,7 +9,7 @@
   "bugs": "https://github.com/chrisenytc/generator-library/issues",
   "author": {
     "name": "Christopher EnyTC",
-    "email": "chrisenytc@gmail.com",
+    "email": "chris.enytc@gmail.com",
     "url": "https://github.com/chrisenytc"
   },
   "main": "app/index.js",

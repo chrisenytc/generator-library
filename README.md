@@ -1,4 +1,4 @@
-# generator-library [![Build Status](https://secure.travis-ci.org/chrisenytc/generator-library.png?branch=master)](https://travis-ci.org/chrisenytc/generator-library)
+# Library Generator [![Build Status](https://secure.travis-ci.org/chrisenytc/generator-library.png?branch=master)](https://travis-ci.org/chrisenytc/generator-library)
 
 A generator for [Yeoman](http://yeoman.io).
 
