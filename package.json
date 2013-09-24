@@ -1,0 +1,41 @@
+{
+  "name": "generator-library",
+  "version": "0.0.1",
+  "description": "A JavaScript Library Generator for Yeoman",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/chrisenytc/generator-library",
+  "bugs": "https://github.com/chrisenytc/generator-library/issues",
+  "author": {
+    "name": "Christopher EnyTC",
+    "email": "chrisenytc@gmail.com",
+    "url": "https://github.com/chrisenytc"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisenytc/generator-library.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.13.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0-rc.1"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
