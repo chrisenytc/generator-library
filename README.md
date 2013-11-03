@@ -44,6 +44,8 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 
 ## License
 
+The MIT License (MIT)
+
 Copyright 2013 Christopher EnyTC
 
 Permission is hereby granted, free of charge, to any person obtaining

@@ -1,6 +1,6 @@
 {
   "name": "generator-library",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "A JavaScript Library Generator for Yeoman",
   "keywords": [
     "yeoman-generator"
