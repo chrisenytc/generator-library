@@ -1,4 +1,4 @@
-# Library Generator [![Build Status](https://secure.travis-ci.org/chrisenytc/generator-library.png?branch=master)](https://travis-ci.org/chrisenytc/generator-library) [![Dependency Status](https://gemnasium.com/chrisenytc/generator-library.png)](https://gemnasium.com/chrisenytc/generator-library) [![NPM version](https://badge.fury.io/js/generator-library.png)](http://badge.fury.io/js/generator-library) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/generator-library/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Library Generator [![Build Status](https://secure.travis-ci.org/chrisenytc/generator-library.png?branch=master)](https://travis-ci.org/chrisenytc/generator-library) [![Dependency Status](https://gemnasium.com/chrisenytc/generator-library.png)](https://gemnasium.com/chrisenytc/generator-library) [![NPM version](https://badge-me.herokuapp.com/api/npm/generator-library.png)](http://badges.enytc.com/for/npm/generator-library) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/generator-library/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
 A generator for [Yeoman](http://yeoman.io).
 
